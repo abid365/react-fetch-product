@@ -1,0 +1,19 @@
+.brand{
+    font-size: 16px;
+
+}
+
+div img{
+    
+    width: 60%;
+    border: 1px solid #333;
+    border-radius: 8px;
+}
+
+.product-details{
+    border: 1px solid #e2e2e2;
+    margin: 5px;
+    padding: 8px;
+    background-color: beige;
+    border-radius: 10px;
+}
